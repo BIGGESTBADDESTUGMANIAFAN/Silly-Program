@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\danie\source\repos\awful code\awful code\HelperLibrary.h(99,1): warning C4005: 'umbrella': macro redefinition
+C:\Users\danie\source\repos\awful code\awful code\HelperLibrary.h(24): message : see previous definition of 'umbrella'
+C:\Users\danie\source\repos\awful code\awful code\HelperLibrary.h(107,35): warning C4013: 'GetValueOfANumber' undefined; assuming extern returning int
+  awful code.vcxproj -> C:\Users\danie\source\repos\awful code\x64\Debug\awful code.exe
